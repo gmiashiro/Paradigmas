@@ -23,6 +23,9 @@ Desejável:
 - Experiência com análise de dados de pessoas.
 - Formação em Administração, Estatística, Engenharia ou Matemática.
 
+Paradigmas:
+Programação funcional, orientada a objetos, imperativa e procedural
+
 Faixa salarial: 
 R$ 12 mil Médio de acordo com o GrassDoor na empresa BairesDev
 R$ 20 mil Médio de acordo com o GrassDoor na empresa TecGraf
